@@ -12,19 +12,20 @@ python -m venv venv
 
 ### 2. Активируйте виртуальное окружение
 На Windows:
-bash
+```bash
 venv\Scripts\activate
+```
 На macOS и Linux:
-bash
 
+```bash
 source venv/bin/activate
-
+```
 ### 3. Установка зависимостей
 Установите необходимые зависимости из файла requirements.txt:
 
-bash
-
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Скачивание данных
 Скачайте данные по следующей ссылке:
